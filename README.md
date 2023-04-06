@@ -4,10 +4,15 @@ crashes-joined.csv in Google sheets (has pivot table numbering crashes): https:/
 
 
 Joining streets and crash data:
+
 Drop crash data .csv into Mapshaper
 
 Open console and type: -points x=Longtitude y=Latitude
 <img width="1440" alt="Screen Shot 2023-04-06 at 12 34 35 PM" src="https://user-images.githubusercontent.com/128079269/230446118-aba31f97-5533-48c4-b194-aee5500c3154.png">
+
+Use https://app.placemark.io/play to create polygons on selected streets.
+Add a new field called corridor and input street names as values.
+Export .geojson
 
 Drop street .geojson into Mapshaper
 
