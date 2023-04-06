@@ -18,3 +18,6 @@ Drop street .geojson into Mapshaper
 
 Open console and type: -join (filename) fields='corridor'
 <img width="1440" alt="Screen Shot 2023-04-06 at 12 35 46 PM" src="https://user-images.githubusercontent.com/128079269/230446244-dbbe49aa-03fc-47b8-9511-453ab8b3417b.png">
+
+Sample Corridor Crash Map
+<img width="1124" alt="Sample Corridor Crash Map" src="https://user-images.githubusercontent.com/128079769/230453590-bd0ec60f-3336-498a-98d1-e222afc0d954.png">
